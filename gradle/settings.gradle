@@ -64,6 +64,7 @@ include(
 	'extensions:struts-action',
 	'extensions:struts-portlet-action',
 	'extensions:user-service-wrapper',
+	'extensions:workflow-sla-calendar',
 	'overrides:login-web-resource-bundle-override',
 	'overrides:module-jsp-override',
 	'overrides:portlet-form-taglib-override',
