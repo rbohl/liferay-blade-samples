@@ -49,7 +49,7 @@ public class WorkflowSLACalendar implements WorkflowMetricsSLACalendar {
 
 	@Override
 	public String getTitle(Locale locale) {
-		return _language.get(locale, "default-calendar-title");
+		return _language.get(locale, "5 days per week, 8 hours per day");
 	}
 
 	@Reference
